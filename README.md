@@ -52,7 +52,7 @@ https://github.com/LANparties/awesome-lanparty-software
 https://linuxgsm.com/
 https://www.reddit.com/r/GlobalOffensive/comments/2fdkx7/looking_to_setup_csgo_lan_tournament_for/
 
-other streamlined steps:
+OTHER POSSIBLE IMPLEMENTATIONS::
 Download SteamCMD (http://media.steampowered.com/installer/steamcmd.zip)
 
 Download SteamCMD-GUI (https://github.com/DioJoestar/SteamCMD-GUI)
