@@ -1,0 +1,2 @@
+# BOCAL
+CSGO intranet comp
