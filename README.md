@@ -49,3 +49,4 @@ Before running this script, ensure that SSH key authentication is properly set u
 
 relevant documentation:
 https://github.com/LANparties/awesome-lanparty-software
+https://linuxgsm.com/
