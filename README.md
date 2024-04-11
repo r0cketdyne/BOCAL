@@ -50,3 +50,4 @@ Before running this script, ensure that SSH key authentication is properly set u
 relevant documentation:
 https://github.com/LANparties/awesome-lanparty-software
 https://linuxgsm.com/
+https://www.reddit.com/r/GlobalOffensive/comments/2fdkx7/looking_to_setup_csgo_lan_tournament_for/
