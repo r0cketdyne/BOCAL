@@ -51,3 +51,14 @@ relevant documentation:
 https://github.com/LANparties/awesome-lanparty-software
 https://linuxgsm.com/
 https://www.reddit.com/r/GlobalOffensive/comments/2fdkx7/looking_to_setup_csgo_lan_tournament_for/
+
+other streamlined steps:
+Download SteamCMD (http://media.steampowered.com/installer/steamcmd.zip)
+
+Download SteamCMD-GUI (https://github.com/DioJoestar/SteamCMD-GUI)
+
+ This will help you setup servers without knowing any command. However, you do need to know how to set them up. But basically, just download both of them, extract and put them in a folder. Run SteamCMD-GUI and install server.
+After installing servers, you'll need plugins and it will be Sourcemod and Metamod. Install it into the server's folder using this tutorial (https://wiki.alliedmods.net/Installing_sourcemod).
+After installation, install Warmod plugin (https://forums.alliedmods.net/showthread.php?t=225474) (This is the best plugin I've found so far). Read the instruction on the page (especially requirements) and note the Admin commands. Note : To enable pause on the server, type in sv_pausable 1 to enable the command, and pause when you wanna pause.
+Run server and test it out if it works. If I'm not wrong, Warmod automatically creates a GOTV server for you so you can enter into the GOTV server and stream it live using software like (https://obsproject.com/) on Twitch or your school's projector.
+Security wise, do make sure your WiFi where all the computers are connected to have password enabled. DO NOT allow anyone else to connect into the WiFi without permission as you could face LAN DDoS (I think it's still possible to attack player's PC on the same network). Also, anti-virus.
