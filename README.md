@@ -45,3 +45,7 @@ done
 Replace `"user@host1"`, `"user@host2"`, `/path/to/csgo_files`, and `csgo_package.deb` with appropriate values for your network and CSGO installation files.
 
 Before running this script, ensure that SSH key authentication is properly set up between the machine running the script and the target Ubuntu machines. Also, make sure that the script has executable permissions (`chmod +x install_csgo.sh`).
+
+
+relevant documentation:
+https://github.com/LANparties/awesome-lanparty-software
